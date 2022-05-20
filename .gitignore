@@ -19,5 +19,29 @@
 *.tar.gz
 *.rar
 
+
+/Workspace
+/workspace
+**/Workspace/java
+**/workspace/java
+**/.idea
+**/*.pj
+**/.project
+**/.classpath
+**/.settings
+**/~*
+**/target
+**/**.bak
+**/**.jar
+**.iml
+*.log
+.factorypath
+*.iml
+.idea/
+.DS_Store
+*.gz
+**.gradle/**
+
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
